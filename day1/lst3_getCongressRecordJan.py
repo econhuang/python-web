@@ -17,7 +17,6 @@ for day in range(1,10):
         fout.close()
         print("Downloaded file %s." % fileURL)
     except:
-        print("Could not retrieve file %s." % fileURL)
         pass
 
     time.sleep(2)
