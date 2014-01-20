@@ -1,3 +1,9 @@
+# Copyright 2014, Radhika S. Saksena (radhika dot saksena at gmail dot com)
+# Licensed under the Apache License, Version 2.0
+# http://www.apache.org/licenses/LICENSE-2.0
+
+# Web scraping and text processing with Python workshop
+
 from bs4 import BeautifulSoup
 import urllib2
 import codecs
